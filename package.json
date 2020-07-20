@@ -1,6 +1,6 @@
 {
   "name": "gesture-effect",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Virtual List Component",
   "main": "build/gesture-effect.cjs.js",
   "module": "build/gesture-effect.es.js",
@@ -20,9 +20,7 @@
   },
   "keywords": [
     "react",
-    "react-pearls",
-    "virtual",
-    "list"
+    "gesture"
   ],
   "author": "Gavin Birkhoff <gavinbirkhoff@gmail.com>",
   "license": "MIT",
